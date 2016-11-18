@@ -31,3 +31,15 @@ elf.data<-read.csv("data/houseelf-earlength-dna-data.csv_1", sep=",", stringsAsF
 #Exercise 3
 #Load in the original dataset
 #elf.data<-read.csv("data/houseelf-earlength-dna-data.csv", sep=",", stringsAsFactors = FALSE)
+
+
+#Exercise 4
+#Add the number of the file in the file list to the file title and update the data import
+#elf.data<-read.csv("data/houseelf-earlength-dna-data_1.csv", sep=",", stringsAsFactors = FALSE)
+
+
+
+
+#--- Exercise 5 ---#
+
+#Connect your local git repository to your remote repository on Github.
