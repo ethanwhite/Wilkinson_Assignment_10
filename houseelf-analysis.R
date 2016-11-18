@@ -23,5 +23,11 @@
 
 
 #--- Exercise 3 & 4 ---#
+
 #Load in the dataset
-elf.data<-read.csv("data/houseelf-earlength-dna-data.csv", sep=",", stringsAsFactors = FALSE)
+elf.data<-read.csv("data/houseelf-earlength-dna-data.csv_1", sep=",", stringsAsFactors = FALSE)
+
+
+#Exercise 3
+#Load in the original dataset
+#elf.data<-read.csv("data/houseelf-earlength-dna-data.csv", sep=",", stringsAsFactors = FALSE)
